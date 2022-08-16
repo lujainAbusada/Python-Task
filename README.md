@@ -2,4 +2,4 @@ This repository contains a python code and a YAML file. The Python code reads th
 
 The code is run on the linux terminal using the following command:
 
-"python3 code.py"
+"python3 code.py"  
